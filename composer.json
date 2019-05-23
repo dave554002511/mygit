@@ -1,0 +1,12 @@
+{
+    "name": "dave554002511/mygit",
+    "description": "for myself",
+    "license": "1.1",
+    "authors": [
+        {
+            "name": "dave554002511",
+            "email": "554002551@qq.com"
+        }
+    ],
+    "require": {}
+}
